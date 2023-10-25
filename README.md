@@ -1,2 +1,2 @@
-# rogermgual.github.io
-My personal Github Pages site
+# Roger Martin Gual
+This is my personal Github Pages site
